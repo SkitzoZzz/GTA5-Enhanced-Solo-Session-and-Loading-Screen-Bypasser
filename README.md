@@ -2,7 +2,7 @@
 
 Tired of getting stuck in the clouds or infinite loading? Me too.. Don't worry tho bc I gotchu gang 
 
-This script will temporarily pause your game upon pressing f9 (or preferred keybind) for 10 seconds and auto resume it. This results in a solo public session and skipping any infinite loading screens. AutoHotKey is required to run this script <3
+This script will temporarily pause your game for 10 seconds upon pressing f9 (or preferred keybind) and auto resume. This results in a solo public session and skipping any infinite loading screens. AutoHotKey is required to run this script <3
 
 On line 3, the default keybind is set to F9. Able to change it to whatever u want
 
