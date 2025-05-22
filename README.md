@@ -8,7 +8,7 @@ On line 3, the default keybind is set to F9. Able to change it to whatever u wan
 
 If you want the program to auto start on windows launch, here's how to do that.
 
-Step 1. Right click on the file exe or ahk file and create a shortcut. 
+Step 1. Right click on the ahk file and create a shortcut. 
 
 Step 2. Win + R
 
